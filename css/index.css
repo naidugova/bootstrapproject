@@ -43,3 +43,9 @@ body {
     background-color:rgba(255, 153, 0, 0.75);
     border:none;
 }
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
